@@ -14,7 +14,7 @@ The [slides](./slides/slides_git.html) in the presentations are based on the [Ve
 
 ## Course schedule
 
-- 09:30-10:00 Introductory video chat
+- 09:30-10:00 Lecture + demonstration on Git
 
 - 10:00-12:30 Work through sections 1-6 in the course site, which correspond to the following videos:
 
@@ -29,7 +29,7 @@ The [slides](./slides/slides_git.html) in the presentations are based on the [Ve
 9. [Ignoring files](https://youtu.be/lPLrKi0vFgU)
 10. [Git sessions wrap-up](https://youtu.be/2_FYFfNhyYs)
 
-- 13:30-14:00 Q&A on git
+- 13:30-14:00 Lecture + demonstration on Github + resolving conflicts
 
 - 14:00-16:00 Work through sections 7-9 on the course site, and the following videos:
 
